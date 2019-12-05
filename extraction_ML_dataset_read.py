@@ -90,7 +90,7 @@ def read_files_from_dir(location):
     print("Total files found:\t", counter)
 
 def main():
-    path = '//chat-dev1/e/benchmark/Full_list_top1000/en-US_converted'
+    path = '//en-US_converted'
     read_files_from_dir(path)
     #read_URLs_from_file('100URLs.txt')
     

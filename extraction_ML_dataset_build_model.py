@@ -7,7 +7,7 @@ Build machine learning model out of the extracted features
 @author: jobose
 """
 
-# Author: Joy Bose <jobose@microsoft.com>
+# Author: Joy Bose 
 
 #%matplotlib inline
 
